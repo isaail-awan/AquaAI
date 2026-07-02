@@ -49,7 +49,7 @@ The app combines a clean, dark-first interface with real-time data sync — desi
 
 Download the latest production-ready Android APK directly:
 
-👉 **[Download AquaAI APK v1.0.0](YOUR_EXPO_DOWNLOAD_LINK_HERE)**
+👉 **[Download AquaAI APK v1.0.0](https://expo.dev/artifacts/eas/l_ZvBKHNIp4jilGVHHo76M9VhbOPpjCYx-5NFJJweKU.apk)**
 
 > ⚠️ **Note:** This build is signed with an ad-hoc local profile. You may need to enable **"Install from Unknown Sources"** in your Android settings to complete installation.
 
@@ -85,6 +85,7 @@ EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
 EXPO_PUBLIC_GEMINI_API_KEY=your_gemini_key_here
 ```
+
 
 ### 4. Run the App
 
