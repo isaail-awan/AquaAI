@@ -49,7 +49,7 @@ The app combines a clean, dark-first interface with real-time data sync — desi
 
 Download the latest production-ready Android APK directly:
 
-👉 **[Download AquaAI APK v1.0.0](https://expo.dev/artifacts/eas/l_ZvBKHNIp4jilGVHHo76M9VhbOPpjCYx-5NFJJweKU.apk)**
+👉 **[Download AquaAI APK v1.0.0](https://github.com/isaail-awan/AquaAI/releases/download/v1.0.0/application-b17adf22-d397-462a-bae1-c6d6a4d7ffe5.apk)**
 
 > ⚠️ **Note:** This build is signed with an ad-hoc local profile. You may need to enable **"Install from Unknown Sources"** in your Android settings to complete installation.
 
@@ -65,8 +65,8 @@ Download the latest production-ready Android APK directly:
 ### 2. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/aquaai.git
-cd aquaai
+git clone https://github.com/isaail-awan/AquaAI.git
+cd AquaAI
 
 # Install dependencies
 npm install --legacy-peer-deps
