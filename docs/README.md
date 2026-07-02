@@ -86,8 +86,6 @@ EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
 EXPO_PUBLIC_GEMINI_API_KEY=your_gemini_key_here
 ```
 
-> ⚠️ **Never commit real API keys to version control.** Make sure `.env` is listed in `.gitignore`.
-
 ### 4. Run the App
 
 ```bash
